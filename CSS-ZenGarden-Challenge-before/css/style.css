@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono');
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
+@import url('https://fonts.googleapis.com/css?family=Aguafina+Script|IBM+Plex+Mono');
+
+    .page-wrapper {
+        }
+    .intro zen-intro {
+        }
+
+    header {
+        background: url(../img/huntington.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        font-family: 'IBM Plex Mono', monospace;
+        padding: 60px
+        }
+
+    h1 {
+        text-align: center;
+        font-family: 'IBM Plex Mono', monospace, bold; 
+        color: white;
+        text-transform: uppercase;
+        font-size: 50px;
+        line-height: 0;
+    }
+         
+    h2 { 
+        text-align: center;
+        font-family: 'Aguafina Script', cursive; 
+        color: white;
+        line-height: 1;
+    }
+        
+    .summary {         
+        }
+
+    .preamble {
+        }
+
+    .main_suppoerting {
+        text-align: start;
+        margin: 60px;
+        font-family: 'IBM Plex Mono', monospace;
+    
+        }
+    .explanation {
+        text-align: start;
+        margin-block-end: 50px;
+        margin-block-start: 0px;
+        font-family: 'IBM Plex Mono', monospace;
+        }
+    .participation {
+        background: url(../img/bamboo.png);
+        background-color: darkseagreen;
+        background-blend-mode: hard-light;
+            
+        }
+
+    p {
+        text-align: start;
+        margin:60px;
+        line-height: 25px;
+        font-family: 'IBM Plex Mono', monospace;
+    }
+    
+    p a{
+        color: black;
+        font-weight: bold ;
+    }
+
+    h3 {
+       display:none; }
+    
+    h4{
+        text-align: start;
+        margin: 60px;
+        font-family: 'IBM Plex Mono', monospace, bold;
+    }
+
+    .benefits{
+        text-align: start;
+        background: url(../img/bamboo.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-size: cover;
+        background-position: center;
+        background-color: darkseagreen;
+        background-blend-mode: hard-light;
+        margin-top: -60px;
+        line-height: 60px;
+    }
+        
+    [role=contentinfo]{
+        background: #7bb884;
+        text-align: center;
+        margin: 0;
+        color: gray;
+        padding: 35px;
+    }
+
+    [role=contentinfo] a{
+       color: white;
+   }
+        
+    footer{
+        align-content: center;
+        background: #2a674f;
+        text-align: center;
+        padding: 35px;
+    }
+
+    footer a {
+        color: white;
+        margin: 30px;
+    }
+
+    .sidebar ul{
+        list-style: none;
+        size: 22px 
+    }
+
+    .design-name {
+        color: black;
+    }
+
+    .zen-validate-html {
+        width: 0%;
+    }
+    
+    .zen-validate-css {
+        width: 0%;
+    }
+    
+    .zen-license {
+        width: 0%;
+    }
+    
+    .zen-accessibility {
+        width: 0%;
+    }
+
+    .zen-github{
+        width:0%;
+    }
+
+    .sidebar {
+        background: #ccd8cc;
+    }
+
+    .wrapper {
+        width: 0%;
+    }
+    
+    .design-selection {
+        text-align: center;
+        size: 22px;
+        column-count: 2;
+        list-style: none;
+        column-gap: 500px;
+    }
+    
+    .select [role=navigation]{
+        width: 30.%  
+    }
+    
+    a .design-name {
+        font-size: 0.6rem;
+        color: 0%;
+        width: 50%;
+    }
+              
+    .design-archives, .resources{
+        text-decoration: 100px;
+        text-align: center;
+        background-color: green;
+        padding: 100px;
+        border-bottom: 1px solid black;
+    }
+
+    .archives {
+        width: 0%;
+        }
+
+    .next {
+        width: 0%;
+        }
+
+    .viewwell {
+        width: 0%;
+        }
+
+    .zen-resources {
+        width: 0%;
+    }
+    
+    .resources {
+        width: 0%;
+    }
+                
+    .view-css {
+        width: 0%;
+    }
+
+    .css-resources {
+        width: 0%;
+    }
+    
+    .zen-faq {
+        width: 0%;
+    }
+    
+    .zen-submit {
+        width: 0%;
+    }
+                
+    .zen-translations {
+        width: 0%;
+    }
+
+
+    .extra1 {
+        width: 0%;
+    }
+    .extra2 {
+        width: 0%;
+    }
+    .extra3 {
+        width: 0%;
+    }
+    .extra4 {
+        width: 0%;
+    }
+    .extra5 {
+        width: 0%;
+    }
+    .extra6 {
+        width: 0%;
+    }
